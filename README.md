@@ -26,7 +26,6 @@ The system classifies text into **four emotions**: **happy**, **sad**, **angry**
 - pandas, numpy
 - matplotlib
 - gradio
-\
 
 ## Dataset
 
