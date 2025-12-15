@@ -111,9 +111,10 @@ See the report for detailed metrics, curves, and the confusion matrix.
 
 ## Team
 
+- Rakshita Telrandhe 
 - Rathikadevi Mani  
 - Anantha Gokul Sivakumar  
-- Rakshita Telrandhe  
+ 
 
 
 
