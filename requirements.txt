@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tensorflow>=2.10
+tqdm
+sentencepiece    # optional, if using certain tokenizers
+gradio
+nltk
+imblearn          # for balancing (SMOTE/undersampling) optional
